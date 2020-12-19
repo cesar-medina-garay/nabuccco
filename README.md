@@ -1,0 +1,2 @@
+# nabuccco
+Curso de pyton
